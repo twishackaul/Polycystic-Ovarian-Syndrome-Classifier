@@ -4,7 +4,7 @@
 ### Additionally, there is an increased risk of pregnancy complications, including early miscarriage, gestational diabetes, hypertension, and pre-eclampsia, as well as a markedly increased risk of endometrial cancer.
 ### Women with PCOS also experience a higher prevalence of anxiety, depression, eating disorders, psychosexual dysfunction, and negative body image.
 ### This project presents an application for classifying PCOS using ultrasound imaging and clinical data. 
-### Initially, a deep learning model was developed to diagnose PCOS based on clinical data alone and achieved 90.18% accuracy using the CatBoost classifier. 
+### Initially, a deep learning model was developed to diagnose PCOS based on clinical data alone and achieved 91.41% accuracy using the CatBoost classifier. 
 ### A fusion model was proposed that integrates clinical data and ultrasound imaging to enhance diagnostic accuracy. A CNN model was developed, achieving an accuracy of 93.96%. Two additional CNN models followed this in conjunction with Transfer Learning – Inception V3, which achieved an accuracy of 95.89%, and ResNet 50, which attained an accuracy of 99.32%.
 ### The fusion model, based on the combination of the CatBoost classifier and ResNet, achieved an accuracy of ---.
 
